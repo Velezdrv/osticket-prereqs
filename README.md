@@ -25,8 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install/Enable ISS
 - Verify ISS, web browse 127.0.0.1 (Local Host)
 - Install PHP Manager
-- Item 4
-- Item 5
+- Install Rewrite Module
+- Create PHP Folder in C Drive
+- Install PHP and Extract all to C Drive PHP Folder
+- Install Microstoft Visual C++ Redistributable
 
 <h2>Installation Steps</h2>
 
