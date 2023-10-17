@@ -32,7 +32,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install MySQL Server
 - Run ISS as Administrator
 - Open PHP Manager and Register New PHP Version
-- 
+- Install osTicket
+- Drag and Drop Upload Folder to c:\inetpub\wwwroot
+- Rename to osTicket
+- Enable Extensions in osTicket
 
 <h2>Installation Steps</h2>
 
@@ -52,3 +55,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/65dd8fdc-2d95-4118-87d2-62c8642317e4)
 
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/90a0e6f7-6305-478a-b4e2-bc783b466182)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1894407-9e58-4b6c-94c4-9fdb590d424d)
