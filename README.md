@@ -29,6 +29,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create PHP Folder in C Drive
 - Install PHP and Extract all to C Drive PHP Folder
 - Install Microstoft Visual C++ Redistributable
+- Install MySQL Server
+- Run ISS as Administrator
+- Open PHP Manager and Register New PHP Version
+- 
 
 <h2>Installation Steps</h2>
 
@@ -43,3 +47,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/dcbd2c2d-1800-4990-affd-d4dd23a71ae8)
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5b2175e1-b325-4cfb-a762-40668f36f5ff)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/77a7f0cc-8988-472a-bc04-748cacb840ed)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/65dd8fdc-2d95-4118-87d2-62c8642317e4)
+
