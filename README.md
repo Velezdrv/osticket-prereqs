@@ -22,14 +22,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Install/Enable ISS
+- Verify ISS, web browse 127.0.0.1 (Local Host)
+- Install PHP Manager
 - Item 4
 - Item 5
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/43bbbdd1-3f21-4c3d-9a99-72a90490f0e3)
+
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1f0adec-4a22-4cc3-a4aa-618a15d1870f)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5aaa780a-00d5-4240-b62b-e35c976811e3)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/0a4ef878-dc3a-4911-b619-d9d96792f6fb)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/dcbd2c2d-1800-4990-affd-d4dd23a71ae8)
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5b2175e1-b325-4cfb-a762-40668f36f5ff)
