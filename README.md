@@ -36,6 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Drag and Drop Upload Folder to c:\inetpub\wwwroot
 - Rename to osTicket
 - Enable Extensions in osTicket
+- Set up User Profile and Install HeidiSQL
 
 <h2>Installation Steps</h2>
 
@@ -58,3 +59,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/90a0e6f7-6305-478a-b4e2-bc783b466182)
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1894407-9e58-4b6c-94c4-9fdb590d424d)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/1f78c0ac-a1b8-4d13-9845-d5af29f6b2a3)
