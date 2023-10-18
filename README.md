@@ -38,6 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Extensions in osTicket
 - Set up User Profile and Install HeidiSQL
 - Create New Session With User created during MySQL
+- Create New Database for osTicket
 
 <h2>Installation Steps</h2>
 
@@ -64,3 +65,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/1f78c0ac-a1b8-4d13-9845-d5af29f6b2a3)
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/f4c21546-cf34-4c85-9dfc-fe5496e027db)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/ab341588-808c-40c4-8f9f-c5b1bcdbabaa)
