@@ -39,6 +39,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Set up User Profile and Install HeidiSQL
 - Create New Session With User created during MySQL
 - Create New Database for osTicket
+- Delete Setup Folder in c:\inetpub\wwwroot\osTicket
+- Reset Permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to read only
 
 <h2>Installation Steps</h2>
 
