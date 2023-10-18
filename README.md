@@ -69,3 +69,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/f4c21546-cf34-4c85-9dfc-fe5496e027db)
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/ab341588-808c-40c4-8f9f-c5b1bcdbabaa)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/60080701-2386-4660-99ea-b6370933512e)
