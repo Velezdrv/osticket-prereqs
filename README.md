@@ -16,8 +16,15 @@
 
 <h2>List of Prerequisites</h2>
 
-- Install/Enable ISS
-- Verify ISS, web browse 127.0.0.1 (Local Host)
+- Set up an Azure Virtual Machine (VM) environment (Windows 10 4 vCPUs Recommended)
+- osTicket Installation Files (Download these files on your Azure Virtual Machine)
+- Enable IIS in I.S.S.
+- Install Web Platform Installer
+- Install MySQL and set up username and password
+- Install C++ Redistributable
+- Configure permissions and install osTicket
+
+
 - Install PHP Manager
 - Install Rewrite Module
 - Create PHP Folder in C Drive
@@ -38,11 +45,16 @@
 
 <h2>Installation Steps</h2>
 
+- Install/Enable ISS
+
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/43bbbdd1-3f21-4c3d-9a99-72a90490f0e3)
 
-![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1f0adec-4a22-4cc3-a4aa-618a15d1870f)
+- Verify ISS, web browse 127.0.0.1 (Local Host)
+- Install PHP Manager
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5aaa780a-00d5-4240-b62b-e35c976811e3)
+
+- Install Rewrite Module
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/0a4ef878-dc3a-4911-b619-d9d96792f6fb)
 
