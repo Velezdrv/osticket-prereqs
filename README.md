@@ -24,25 +24,6 @@
 - Install C++ Redistributable
 - Configure permissions and install osTicket
 
-
-- Install PHP Manager
-- Install Rewrite Module
-- Create PHP Folder in C Drive
-- Install PHP and Extract all to C Drive PHP Folder
-- Install Microstoft Visual C++ Redistributable
-- Install MySQL Server
-- Run ISS as Administrator
-- Open PHP Manager and Register New PHP Version
-- Install osTicket
-- Drag and Drop Upload Folder to c:\inetpub\wwwroot
-- Rename to osTicket
-- Enable Extensions in osTicket
-- Set up User Profile and Install HeidiSQL
-- Create New Session With User created during MySQL
-- Create New Database for osTicket
-- Delete Setup Folder in c:\inetpub\wwwroot\osTicket
-- Reset Permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to read only
-
 <h2>Installation Steps</h2>
 
 - Install/Enable ISS
@@ -58,22 +39,47 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/0a4ef878-dc3a-4911-b619-d9d96792f6fb)
 
+- Create PHP Folder in C Drive
+- Install PHP and Extract all to C Drive PHP Folder
+
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/dcbd2c2d-1800-4990-affd-d4dd23a71ae8)
+
+- Install Microstoft Visual C++ Redistributable
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5b2175e1-b325-4cfb-a762-40668f36f5ff)
 
+- Install MySQL Server
+
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/77a7f0cc-8988-472a-bc04-748cacb840ed)
+
+- Run ISS as Administrator
+- Open PHP Manager and Register New PHP Version
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/65dd8fdc-2d95-4118-87d2-62c8642317e4)
 
+- Install osTicket
+- Drag and Drop Upload Folder to c:\inetpub\wwwroot
+- Rename to osTicket
+
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/90a0e6f7-6305-478a-b4e2-bc783b466182)
+
+- Enable Extensions in osTicket
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1894407-9e58-4b6c-94c4-9fdb590d424d)
 
+- Set up User Profile and Install HeidiSQL
+
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/1f78c0ac-a1b8-4d13-9845-d5af29f6b2a3)
+
+- Create New Session With User created during MySQL
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/f4c21546-cf34-4c85-9dfc-fe5496e027db)
 
+- Create New Database for osTicket
+
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/ab341588-808c-40c4-8f9f-c5b1bcdbabaa)
+
+- Delete Setup Folder in c:\inetpub\wwwroot\osTicket
+- Reset Permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to read only
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/60080701-2386-4660-99ea-b6370933512e)
