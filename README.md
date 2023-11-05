@@ -106,6 +106,7 @@
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/f4c21546-cf34-4c85-9dfc-fe5496e027db)
 
 - Create New Database for osTicket
+- Right click unnamed, Create database, Name osTicket
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/ab341588-808c-40c4-8f9f-c5b1bcdbabaa)
 
