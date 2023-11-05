@@ -82,6 +82,14 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/4d0d060c-d90e-418f-8a67-d3a297c4f7a4)
 
+- Set Permissions To Everyone
+- Right Click ost-config.php and go to properties
+- Click Security then Advance and disable inheritance
+- Add, Select a Principal and enter a Name, Everyone and click ok
+- Give Everyone Full Control
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/336b4b1e-3373-48bc-8fde-fd38525b82bf)
+  
 
 - Set up User Profile and Install HeidiSQL
 
