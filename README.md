@@ -49,7 +49,7 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5b2175e1-b325-4cfb-a762-40668f36f5ff)
 
-- Install MySQL Server
+- Install MySQL Server https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/77a7f0cc-8988-472a-bc04-748cacb840ed)
 
