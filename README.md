@@ -66,6 +66,7 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/90a0e6f7-6305-478a-b4e2-bc783b466182)
 
+- Launch osTicket, Left side tab click Sites, Default, osTicket then Browse *:80
 - Enable Extensions in osTicket
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1894407-9e58-4b6c-94c4-9fdb590d424d)
