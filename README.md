@@ -32,16 +32,16 @@
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/43bbbdd1-3f21-4c3d-9a99-72a90490f0e3)
 
 - Verify ISS, web browse 127.0.0.1 (Local Host)
-- Install PHP Manager
+- Install PHP Manager https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5aaa780a-00d5-4240-b62b-e35c976811e3)
 
-- Install Rewrite Module
+- Install Rewrite Module https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/0a4ef878-dc3a-4911-b619-d9d96792f6fb)
 
 - Create PHP Folder in C Drive
-- Install PHP and Extract all to C Drive PHP Folder
+- Install PHP and Extract all to C Drive PHP Folder 
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/dcbd2c2d-1800-4990-affd-d4dd23a71ae8)
 
