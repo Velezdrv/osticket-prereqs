@@ -76,6 +76,13 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1894407-9e58-4b6c-94c4-9fdb590d424d)
 
+- Rename: ost-config.php
+- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php (Just delete sample in the name)
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/4d0d060c-d90e-418f-8a67-d3a297c4f7a4)
+
+
 - Set up User Profile and Install HeidiSQL
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/1f78c0ac-a1b8-4d13-9845-d5af29f6b2a3)
