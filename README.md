@@ -27,6 +27,7 @@
 <h2>Installation Steps</h2>
 
 - Install/Enable ISS
+- Control Panel, turn on or off windows features, Internet Information Services, World Wide Web Services, Application and Development Features, check CGI, Common HTTP Features and check all.
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/43bbbdd1-3f21-4c3d-9a99-72a90490f0e3)
 
