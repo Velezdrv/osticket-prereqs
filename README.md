@@ -110,6 +110,11 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/ab341588-808c-40c4-8f9f-c5b1bcdbabaa)
 
+- Finish Database Settings in osTicket Installer
+- Then Click Install Now
+
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/4b8bdfb0-011b-4f5c-ad8c-27c81747d7b7)
+
 - Delete Setup Folder in c:\inetpub\wwwroot\osTicket
 - Reset Permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to read only
 
