@@ -68,6 +68,11 @@
 
 - Launch osTicket, Left side tab click Sites, Default, osTicket then Browse *:80
 - Enable Extensions in osTicket
+- Sites. Default. osTicket, PHP Manager, Enable or disable Extensions
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache.dll
+- Refresh the osTicket site in your browse, observe the changes
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/d1894407-9e58-4b6c-94c4-9fdb590d424d)
 
