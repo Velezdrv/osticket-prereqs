@@ -41,7 +41,7 @@
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/0a4ef878-dc3a-4911-b619-d9d96792f6fb)
 
 - Create PHP Folder in C Drive
-- Install PHP and Extract all to C Drive PHP Folder 
+- Install PHP and Extract all to C Drive PHP Folder https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=drive_link
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/dcbd2c2d-1800-4990-affd-d4dd23a71ae8)
 
@@ -60,7 +60,7 @@
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/65dd8fdc-2d95-4118-87d2-62c8642317e4)
 - Recommended (Restart IIS Manager after any changes are made.)
 
-- Install osTicket
+- Install osTicket https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
 - Drag and Drop Upload Folder to c:\inetpub\wwwroot
 - Rename to osTicket
 
