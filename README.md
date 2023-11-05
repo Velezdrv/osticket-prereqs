@@ -119,3 +119,5 @@
 - Reset Permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to read only
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/60080701-2386-4660-99ea-b6370933512e)
+
+<h3 align = "right">Next Tutorial - <a href = "https://github.com/Velezdrv/post-install-config/tree/main">osTicket: Post Install Configurations</a></h3>
