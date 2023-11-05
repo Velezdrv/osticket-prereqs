@@ -45,7 +45,7 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/dcbd2c2d-1800-4990-affd-d4dd23a71ae8)
 
-- Install Microstoft Visual C++ Redistributable
+- Install Microstoft Visual C++ Redistributable https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5b2175e1-b325-4cfb-a762-40668f36f5ff)
 
