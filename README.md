@@ -18,7 +18,7 @@
 
 - Set up an Azure Virtual Machine (VM) environment (Windows 10 4 vCPUs Recommended)
 - osTicket Installation Files (Download these files on your Azure Virtual Machine)
-- Enable IIS in I.S.S.
+- Enable IIS in I.I.S.
 - Install Web Platform Installer
 - Install MySQL and set up username and password
 - Install C++ Redistributable
@@ -26,12 +26,12 @@
 
 <h2>Installation Steps</h2>
 
-- Install/Enable ISS
+- Install/Enable IIS
 - Control Panel, turn on or off windows features, Internet Information Services, World Wide Web Services, Application and Development Features, check CGI, Common HTTP Features and check all.
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/43bbbdd1-3f21-4c3d-9a99-72a90490f0e3)
 
-- Verify ISS, web browse 127.0.0.1 (Local Host)
+- Verify IIS, web browse 127.0.0.1 (Local Host)
 - Install PHP Manager https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/5aaa780a-00d5-4240-b62b-e35c976811e3)
@@ -54,10 +54,11 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/77a7f0cc-8988-472a-bc04-748cacb840ed)
 
-- Run ISS as Administrator
+- Run IIS as Administrator
 - Open PHP Manager and Register New PHP Version
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/65dd8fdc-2d95-4118-87d2-62c8642317e4)
+- Recommended (Restart IIS Manager after any changes are made.)
 
 - Install osTicket
 - Drag and Drop Upload Folder to c:\inetpub\wwwroot
