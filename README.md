@@ -90,8 +90,14 @@
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/336b4b1e-3373-48bc-8fde-fd38525b82bf)
   
+- Continue Setup of osTicket
+- Create Helpdesk Name
+- Default Email (Where Customers emails will be received)
 
-- Set up User Profile and Install HeidiSQL
+![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/ca8a2437-48cb-4c41-aa53-5a723c219aa8)
+
+
+- Set up User Profile and Install HeidiSQL https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
 
 ![image](https://github.com/Velezdrv/osticket-prereqs/assets/147437260/1f78c0ac-a1b8-4d13-9845-d5af29f6b2a3)
 
