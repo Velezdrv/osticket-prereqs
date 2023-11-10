@@ -14,6 +14,7 @@
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Azure Virtual Machine (VM) environment (Windows 10 4 vCPUs Recommended)
 
 <h2>List of Prerequisites</h2>
 
